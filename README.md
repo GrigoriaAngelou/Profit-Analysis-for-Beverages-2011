@@ -5,5 +5,5 @@ I created a notebook where I cleaned the dataset and I used 4 different style li
 
 Plus, I made a profit dashboard for all the different beverages that this dataset had.
 
-**Discover more:** [here](......) <br>
+**Discover more:** [here](https://grigoriaangelou.github.io/Profit-Analysis-for-Beverages-2011/) <br>
 **Code:** [Sales Analysis with 4 Styling Libraries.ipynb](https://github.com/GrigoriaAngelou/Profit-Analysis-for-Beverages-2011/blob/884443e0cf99bd1ad053a753c11ed23b2a804371/sales-analysis-with-4-styling-libraries.ipynb)
